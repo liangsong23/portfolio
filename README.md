@@ -6,7 +6,7 @@ For over a decade, I've been breaking down complex problems into simple componen
 
 When I'm not immersed in the world of technical writing, you'll often find me experimenting in the kitchen (mostly Chinese cuisine), learning about video game design, delving into the history of comic books, or escaping into the realms of sci-fi and fantasy literature.
 
-## Key Features
+## Writing Philosophy
 
 - **Clear Communication:** I prioritize clarity and coherence in all my documentation, ensuring that readers can easily understand and follow the information provided.
 - **Technical Accuracy:** Diligently researching and verifying technical details to ensure accuracy and reliability.
