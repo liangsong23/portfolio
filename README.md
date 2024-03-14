@@ -4,7 +4,7 @@ Welcome to my technical writing portfolio on GitHub! I'm Liang, a Bay Area story
 
 For over a decade, I've been breaking down complex problems into simple components and using words to bridge the gap between technical concepts and everyday understanding. Throughout my career, I've had the privilege of working with renowned companies such as PayPal, Silver Peak, F5 Networks, and VMware. At these companies, I've played various roles in technical writing, leading initiatives to elevate developer documentation, ensuring comprehensive and user-friendly content for critical products, and writing technical documentation for a diverse range of products serving broad customer bases.
 
-When I'm not immersed in the world of technical writing, you'll often find me experimenting in the kitchen (mostly Chinese cuisine), learning about video game design, delving into the history of comic books, or escaping into the realms of sci-fi and fantasy literature.
+When I'm not immersed in the world of technical writing, you'll often find me experimenting in the kitchen (mostly Chinese cuisine), learning Unity, delving into the history of comic books, or escaping into the realms of sci-fi and fantasy literature.
 
 ## Writing Philosophy
 
